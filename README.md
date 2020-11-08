@@ -57,7 +57,7 @@ The following task is advanced and therefore optional.
 
 * Update the chart whenever a new sample is selected.
 
-![Gauge](Screenshots/Gauge.png)
+![Guage](Screenshots/Guage.png)
 
 ### About the Data
 
