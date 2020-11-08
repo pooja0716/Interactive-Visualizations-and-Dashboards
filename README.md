@@ -1,5 +1,5 @@
 # Plot.ly Homework - Belly Button Biodiversity
-# Webpage: https://pooja0716.github.io/Interactive-Visualizations-and-Dashboards/
+### Webpage: https://pooja0716.github.io/Interactive-Visualizations-and-Dashboards/
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
 
@@ -19,7 +19,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 * Use `otu_labels` as the hovertext for the chart.
 
-  ![Barchart](Screenshots/Barchart.png)
+  ![Bar chart](Screenshots/Barchart)
 
 3. Create a bubble chart that displays each sample.
 
